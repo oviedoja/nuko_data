@@ -5,8 +5,8 @@
     "telefono": "56992609742",
     "link": "https://wa.me/+56992609742",
     "tipo": "psicologo",
-    "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/main/fotos/Jimmy_Herrera.jpg"
-    "verificado": true,
+    "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/main/fotos/Jimmy_Herrera.jpg",
+    "verificado": true
   },
   {
     "nombre": "JB the voice",
@@ -14,7 +14,7 @@
     "telefono": "56911111111",
     "link": "https://wa.me/+56911111111",
     "tipo": "psicologo",
-    "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/main/fotos/Locorene.png"
-    "verificado": false,
+    "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/main/fotos/Locorene.png",
+    "verificado": false
   }
 ]
