@@ -7,4 +7,14 @@
     "tipo": "psicologo",
     "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/refs/heads/main/fotos/Jimmy_Herrera.jpg"
   }
+],
+[
+  {
+    "nombre": "JB the voice",
+    "especialidad": "Psicólogo del sexo",
+    "telefono": "+56911111111",
+    "link": "https://wa.me/+56911111111",
+    "tipo": "psicologo",
+    "foto": "https://github.com/oviedoja/nuko_data/blob/main/fotos/Locorene.png?raw=true"
+  }
 ]
