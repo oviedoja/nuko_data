@@ -23,7 +23,7 @@
     "telefono": "56911111111",
     "link": "https://wa.me/+56911111111",
     "tipo": "psicologo",
-    "foto": "https://github.com/oviedoja/nuko_data/blob/main/fotos/deku.jpg?raw",
+    "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/refs/heads/main/fotos/deku.jpg",
     "verificado": true
   }
 ]
