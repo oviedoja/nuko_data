@@ -4,7 +4,7 @@
     "especialidad": "Psicólogo Clínico",
     "telefono": "56992609742",
     "link": "https://wa.me/+56992609742",
-    "tipo": "psicologo",
+    "tipo": "psicologo_centrounidad",
     "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/main/fotos/Jimmy_Herrera.jpg",
     "verificado": true
   },
@@ -22,7 +22,7 @@
     "especialidad": "Psicólogo del ofa",
     "telefono": "56911111111",
     "link": "https://wa.me/+56911111111",
-    "tipo": "psicologo",
+    "tipo": "psicologo_independiente",
     "foto": "https://raw.githubusercontent.com/oviedoja/nuko_data/refs/heads/main/fotos/deku.jpg",
     "verificado": true
   }
